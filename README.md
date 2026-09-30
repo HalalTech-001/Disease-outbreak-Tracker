@@ -1,7 +1,7 @@
 # Disease-outbreak-Tracker
 A Python-based interactive system for tracking and analysing disease outbreaks using a simulated health dataset.
 
-##Technologies/Focus:
+## Technologies/Focus:
 Python
 Data Analysis
 Data Validation
@@ -20,7 +20,7 @@ Dataset Disclaimer:
 The dataset is not composed of live hospital records, official WHO statistics, or current government surveillance data. It contains fictional but realistic records created for learning and practice.
 
 
-##🎯 Objectives
+## 🎯 Objectives
 The main objectives of the project are to:
 ✅ Validate outbreak data and identify problematic records
 ✅ Calculate key metrics such as total cases and deaths
@@ -29,7 +29,7 @@ The main objectives of the project are to:
 ✅ Demonstrate Python fundamentals through a real-life-inspired project
 
 
-##⚙️ Features
+## ⚙️ Features
 Interactive menu system
 Nested while loops
 Data validation and data-quality checks
@@ -44,7 +44,7 @@ Display of high-risk outbreaks
 Generation of summary reports
 
 
-##🐍 Python Concepts Used
+## 🐍 Python Concepts Used
 The project applies the following Python concepts:
 Variables
 Strings
@@ -65,7 +65,7 @@ Functions
 Menu-driven program design
 
 
-##📊 Simulated Dataset
+## 📊 Simulated Dataset
 The project uses fictional health records created specifically for learning and programming practice.
 The data is not intended to represent:
 Live hospital records
