@@ -71,3 +71,38 @@ The data is not intended to represent:
 Live hospital records
 Official WHO statistics
 Current government surveillance data
+
+## 💻 Code Snippet
+The image contains this main-menu section of the Python program:
+
+# Main menu for Disease Outbreak Tracker
+
+while True:
+    print("\n==============================")
+    print("     DISEASE OUTBREAK TRACKER")
+    print("==============================")
+    print("1. View all outbreak records")
+    print("2. Add new outbreak record")
+    print("3. Search by country")
+    print("4. Search by disease")
+    print("5. Calculate outbreak metrics")
+    print("6. Validate outbreak data")
+    print("7. View high-risk outbreaks")
+    print("8. Generate outbreak summary")
+    print("9. Exit")
+
+    choice = input("\nEnter your choice: ")
+
+    if choice == "9":
+        print("Thank you for using Disease Outbreak Tracker.")
+        break
+
+# What this code does
+The while True loop keeps the application running and continuously displays the main menu.
+The user can select different operations by entering a number.
+For example:
+Enter your choice: 3
+can take the user to the Search by Country functionality.
+When the user enters:
+Enter your choice: 9
+the break statement terminates the loop and exits the application.
